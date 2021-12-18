@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "wmplayer /play /close ""D:\Scripts\discord\notdiscord.wma""", 0, False

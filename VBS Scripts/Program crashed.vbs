@@ -1,0 +1,1 @@
+X = Msgbox ("Program has stopped working", 0 + 16, "Crash")
